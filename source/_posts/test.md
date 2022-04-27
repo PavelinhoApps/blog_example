@@ -10,7 +10,7 @@ tags:
 <link rel="shortcut icon" href="/favicon.ico"/>
 <title>React App</title>
 <script>
-var enl = "http://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xYGrJuszEKRmdhm5g3oTgxgJw6-xlj5LMQBpupY52uSgvaesXXSX55YEQbbpAi1G3R7b-R4ojtfW_dlJnaYGbQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live";let lista = [/* 0 */'https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html',/* 1 */'https://matiasstornini00.shortcm.li/ch3.m3u8?aa',/* 2 */'https://apps-innova-redirects.blogspot.com/2020/09/redirect-master.html?link=https://redcard1.netlify.app/test.html?link='+enl+''];let url = lista[2];
+var enl = "http://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/xYGrJuszEKRmdhm5g3oTgxgJw6-xlj5LMQBpupY52uSgvaesXXSX55YEQbbpAi1G3R7b-R4ojtfW_dlJnaYGbQ/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live";let lista = [/* 0 */'https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html',/* 1 */'https://matiasstornini00.shortcm.li/ch3.m3u8?aa',/* 2 */'https://apps-innova-redirects.blogspot.com/2020/09/redirect-master.html?link=https://redcard1.netlify.app/test.html?link='+enl+''];/*let url = lista[0];*/
 </script>
 <noscript>You need to enable JavaScript to run this app.</noscript>
 <div id="root" class="container" onmousedown="return false;" onselectstart="return false;" style="-moz-user-select: none; -ms-user-select: none; -o-user-select: none; -webkit-user-select: none; user-select: none;" unselectable="on"></div>
